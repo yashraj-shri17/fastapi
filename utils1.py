@@ -15,6 +15,9 @@ nltk.download('punkt')
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+import nltk
+nltk.download('stopwords')
+
 sentiment_analyzer = SentimentIntensityAnalyzer()
 r = Rake()
 
