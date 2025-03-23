@@ -1,0 +1,14 @@
+gradio
+fastapi
+uvicorn
+newspaper3k
+feedparser
+transformers
+torch
+rake-nltk
+nltk
+gtts
+requests
+beautifulsoup4
+streamlit
+flask
