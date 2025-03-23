@@ -12,3 +12,4 @@ requests
 beautifulsoup4
 streamlit
 flask
+lxml[html_clean]
