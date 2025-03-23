@@ -10,3 +10,4 @@ rake-nltk
 nltk
 gtts
 vaderSentiment
+lxml[html_clean]
