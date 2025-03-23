@@ -14,3 +14,4 @@ streamlit
 flask
 lxml[html_clean]
 vaderSentiment
+sentencepiece
